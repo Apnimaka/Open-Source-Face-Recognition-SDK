@@ -4,7 +4,7 @@
 
 # Face Recognition SDK for Windows and Linux - Fully On Premise
 ## Overview
-The world's 1st **open source** `Face Recognition SDK` for developers to integrate face recognition capabilities into applications. Supports real-time, high-accuracy face recognition with deep learning models.
+The world's 1st **Completely Free and Open Source** `Face Recognition SDK` for developers to integrate face recognition capabilities into applications. Supports real-time, high-accuracy face recognition with deep learning models.
 <br>This is `on-premise face recognition SDK` which means everything is processed in your phone and **NO** data leaves the device
 <br>You can use this SDK on Windows and Linux
 <br></br>
@@ -35,7 +35,7 @@ This **Face Recognition SDK** is ideal for a wide range of applications, includi
 
 ## Installation
 Please download anaconda on your computer and install it.
-I used Windows machine without GPU for testing.
+We used Windows machine without GPU for testing.
 
 ### create anaconda environment 
 conda create -n facesdk python=3.9
@@ -49,11 +49,11 @@ pip install -r requirements.txt
 ### compare 1.jpg and 2.png in the test directory.
 python run.py
 
-## APIs
+## APIs and Parameters
 
-GetImageInfo(image, faceMaxCount): returns face bounding boxes, landmarks and feature embeddings<br>
-get_similarity(feat1, feat2): returns similarity between two feature embeddings. 0 to 100<br>
-Threshold: value to determine if two embeddings belong to same person, default = 75
+**GetImageInfo(image, faceMaxCount):** returns face bounding boxes, landmarks and feature embeddings<br>
+**get_similarity(feat1, feat2):** returns similarity between two feature embeddings. 0 to 100<br>
+**Threshold**: value to determine if two embeddings belong to same person, default = 75
 
 
 ## List of our Products
