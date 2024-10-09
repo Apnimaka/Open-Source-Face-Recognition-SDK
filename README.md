@@ -39,7 +39,7 @@ conda create -n facesdk python=3.9
 ### activate env
 conda activate facesdk
 
-### install dependancies
+### install dependencies
 pip install -r requirements.txt
 
 ### compare 1.jpg and 2.png in the test directory.
