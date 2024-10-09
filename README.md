@@ -9,12 +9,8 @@ The world's 1st **Completely Free and Open Source** `Face Recognition SDK` for d
 <br>You can use this SDK on Windows and Linux
 <br></br>
 
-<div align="left">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<img src="https://img.shields.io/github/issues/genderev/assassin" alt="issue"/>
-<img src="https://img.shields.io/github/issues-pr/genderev/assassin" alt="pr"/>
-</div>
+![Forks](https://img.shields.io/github/forks/Faceplugin-ltd/Face-Recognition)
+![Stars](https://img.shields.io/github/stars/Faceplugin-ltd/Face-Recognition)
 
 ## Key Features
 - **Real-Time Face Recognition**: Can detect and recognize faces from live video streams. Currently only supports face recognition from an image.
